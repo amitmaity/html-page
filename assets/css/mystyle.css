@@ -1,0 +1,162 @@
+.paddingside {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.paddingtop {
+    padding-top: 5%;
+}
+.paddingbottom{
+    padding-bottom: 5%;
+}
+.mountain {
+    width:100%;
+    height: 500px;
+}
+nav {
+    padding-top: 20px;
+    font-size: 25px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.right a{
+    margin-right:15px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.left a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.pos-rel{
+    position: relative;
+}
+.text-container{
+    position: absolute;
+    top:12%;
+    text-align: center;
+    padding: 15%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.center {
+    text-align: center;
+    margin: auto;
+}
+.bodyblue {
+    background-color: #00B0FF;
+    color: white;
+}
+.photo {
+    height: 125px;
+    width: 125px;
+    margin: 10px;
+    border-radius: 50%;
+}
+.inline {
+    display: inline-block;
+}
+.button {
+    background-color: #00B0FF;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 13px 5px;
+    cursor: pointer;
+    border-radius: 25px;
+    width: 150px;
+    border: none;
+}
+.button1 {
+    background-color: #00B0FF;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.white
+{
+    color: white;
+}
+.white a
+{
+    color: white;
+}
+.gray {
+    background-color: lightslategray;
+}
+.bottomborder {
+    border-bottom: 1px solid white;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.megafont {
+    font-size: 35px;
+}
+p {
+    margin: 0;
+}
+.fontblue {
+    color: #00B0FF;
+}
+.fontgray {
+    color: gray;
+}
+.fontgray a {
+    color: gray;
+}
+.overflow{
+    overflow: hidden;
+}
+hr {
+    margin-top: 6%;
+    color: white;
+}
+.icon {
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    border-radius: 50%;
+}
+i {
+    margin: 2px;
+}
+.bottomicons{
+    margin-top: 1%;
+}
+.img-overlay{
+    background-color: rgba(0,0,0,0.3);
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    margin-top: -500px;
+}
