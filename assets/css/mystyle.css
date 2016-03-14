@@ -183,4 +183,12 @@ i {
         clear: both;
         float: none;
     }
+    #menu{
+        float: none;
+        text-align: center;
+    }
+    .right a{
+        padding: 3%;
+        margin-right: 0;
+    }
 }
